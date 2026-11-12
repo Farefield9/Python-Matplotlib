@@ -11,4 +11,4 @@ pl.xlabel('months')
 pl.ylabel('subject')
 pl.title('information')
 pl.legend(loc = 'center')
-pl.show()'''
+pl.show()
